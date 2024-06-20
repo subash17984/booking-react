@@ -1,0 +1,21 @@
+.parent{
+    width: 100vw;
+    background-color:black ;
+    align-items: center;
+    border-radius: 30px ;
+    
+}
+.paragraph1{
+    font-size: 70px;
+    margin-top: 30px;
+}
+.card{
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+}
+.titlebar{
+    width: 100vw;
+    height: 200px;
+    background-color: beige;
+}
